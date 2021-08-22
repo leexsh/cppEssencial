@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Code/CodeWork/cppEssencical/cpp11AndAbove/04_mutex_01.cpp
+iostream
+D:/Code/CodeWork/cppEssencical/cpp11AndAbove/iostream
+thread
+D:/Code/CodeWork/cppEssencical/cpp11AndAbove/thread
+mutex
+D:/Code/CodeWork/cppEssencical/cpp11AndAbove/mutex
+chrono
+D:/Code/CodeWork/cppEssencical/cpp11AndAbove/chrono
+

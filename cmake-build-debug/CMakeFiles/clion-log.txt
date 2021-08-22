@@ -1,0 +1,4 @@
+"D:\Soft\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\Code\CodeWork\cppEssencical
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Code/CodeWork/cppEssencical/cmake-build-debug
